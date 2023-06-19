@@ -1,9 +1,9 @@
 /******************************************************************************
  * Content
  ******************************************************************************/
- html{
+html {
   position: relative; /* Allows the footer to notice content height */
-  min-height: 100vh;  /* My page will always take the full screen */
+  min-height: 100vh; /* My page will always take the full screen */
 }
 
 body {
@@ -32,6 +32,7 @@ body.sticky-bottom-footer {
 
 .container {
   max-width: $max-content-width;
+  margin-bottom: 4em;
 }
 
 // Profile

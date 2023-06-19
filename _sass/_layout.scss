@@ -1,6 +1,10 @@
 /******************************************************************************
  * Content
  ******************************************************************************/
+ html{
+  position: relative; /* Allows the footer to notice content height */
+  min-height: 100vh;  /* My page will always take the full screen */
+}
 
 body {
   color: var(--global-text-color);

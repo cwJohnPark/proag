@@ -329,7 +329,7 @@ blockquote {
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
-  position: relative;
+  position: absolute;
   margin-top: 24px;
   .container {
     text-align: center;

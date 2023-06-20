@@ -4,7 +4,6 @@ title: VisionOS 살펴보기
 date: 2023-06-20 15:53:00
 description: let's get start visionOS
 categories: apple visionos vr metaverse
-giscus_comments: true
 related_posts: true
 ---
 
@@ -65,7 +64,5 @@ visionOS SDK가 공개되기 전까지
 <a href="https://developer.apple.com/visionos/prepare/">visionOS 준비하기</a>를 읽어 보자.
 
 wwdc23에서 발표된 visionOS SDK의 <a href="https://developer.apple.com/visionos/learn/">46개의 영상</a>을 공부하자.
-
----
 
 https://developer.apple.com/visionos/

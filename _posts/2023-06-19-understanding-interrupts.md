@@ -8,7 +8,7 @@ giscus_comments: true
 related_posts: true
 ---
 
-# Title: Understading Linux Interrupt
+# Understading Linux Interrupt
 
 In computer architecture, interrupts play a crucial role in facilitating efficient and timely handling of events that require immediate attention. In this blog post, we will explore the significance of interrupts and delve into their common functions, including transferring control to interrupt service routines and saving/restoring state information. We will also examine the use of interrupt tables and how different operating systems, such as Windows and UNIX, utilize interrupts.
 

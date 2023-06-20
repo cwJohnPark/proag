@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Show how interrupts work in your computer
-date: 2023-06-19 15:53:00-0400
+date: 2023-06-19 15:53:00
 description: how interrupte work in os
 categories: os linux run-by-doing
 giscus_comments: true
